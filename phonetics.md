@@ -8,7 +8,7 @@ Fricative|f-v|th-dh|s-z|c-zh|c-zh|x-gh|h-h
 Liquid|-w|-l|-l|-l|-j
 
 Vowels|Front|Center|Back
--|-|-|-
+--|--|--|--
 Closed|i|u|u
 High/Low|i|e|o
 Open|a|a|o
