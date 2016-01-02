@@ -2,7 +2,7 @@ Consonants IPA|Labial|Dental|Alveolar|Post Alveolar|Palatal|Velo-Uvular|Glottal
 ---------------|------|-------|---------|----------------|-------|------|-------
 Stops|p-b|t-d|t-d|t-d|k-g|k-g|ʔ-
 Nasal|-m|-n|-n|-n|-ŋ|-ŋ|
-Trill||-r|-r|-r||-r|
+Trill||-r|-r|-r||-R|
 Tap/Flap||-ɾ|-ɾ|-ɾ|||
 Fricative|ɸ-β|θ-ð|s-z|ʃ-ʒ|ʃ-ʒ|x-ɣ|h-ɦ
 Liquid|-w|-l|-l|-l|-j
