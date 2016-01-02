@@ -22,7 +22,7 @@ Vowels IPA|Front|Center|Back
 -----|------|------|-----
 Closed|i|ɨ|u
 Middle|e|ə|o
-Open|a|ɐ(almost)|ɒ
+Open|a|ɐ(lower)|ɒ
 
 Vowels|Front|Center|Back
 -----|------|------|-----
