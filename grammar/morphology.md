@@ -13,4 +13,3 @@ Suffix|n|m|ng
 Aspect|Perfect|Imperfect
 -----|-------|----------
 Suffix|e|u
-
