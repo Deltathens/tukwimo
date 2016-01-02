@@ -14,7 +14,7 @@ stops | p b | t d | | k g | '
 nasals | m | n | | ng |
 trills | | rr | | |
 taps | | r | | |
-fricatives | f v | th dh | | x gh | h
+fricatives | f v | þ dh | | x gh | h
 sibilants | | s z | c zh | |
 approximants | w | l | j | |
 
