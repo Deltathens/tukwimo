@@ -10,15 +10,15 @@ approximants | w | l | j | |
 
 Consonants | Labial | alveo-dental | post-alveolar / palatal | velar | glottal 
 ------------------|----------|------------------|--------------------------------|--------|----------
-stops | p b | t d | | k g | ʔ
-nasals | m | n | | ŋ |
-trills | | r | | |
-taps | | ɾ | | |
-fricatives | ɸ β | θ ð | | x ɣ | h
-sibilants | | s z | ʃ ʒ | |
+stops | p b | t d | | k g | '
+nasals | m | n | | ng |
+trills | | rr | | |
+taps | | r | | |
+fricatives | f v | th dh | | x gh | h
+sibilants | | s z | c zh | |
 approximants | w | l | j | |
 
-Vowels|Front|Center|Back
+Vowels IPA|Front|Center|Back
 -----|------|------|-----
 Closed|i|ɨ|ɯ
 Middle|e|ə|o
