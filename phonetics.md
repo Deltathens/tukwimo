@@ -22,13 +22,13 @@ Vowels IPA|Front|Center|Back
 -----|------|------|-----
 Closed|i|ɨ|u
 Middle|e|ə|o
-Open|a||ɑ
+Open|a|ɐ(almost)|ɒ
 
 Vowels|Front|Center|Back
 -----|------|------|-----
 Closed|i-|ï-|-u
 Middle|e-|ë-|-o
-Open|a-||ä-
+Open|a-|ä-|-õ
 
 for vowels, the vowels to the right of the hyphen are rounded, and the vowels to the left are unrounded. for consonants, the consonants to the right of the space are voiced, and the consonants to the left are unvoiced.
 
