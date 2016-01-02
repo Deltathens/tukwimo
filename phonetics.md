@@ -20,13 +20,13 @@ Vowels|Front|Center|Back
 -----|------|------|-----
 Closed|i|ɨ|ɯ
 Middle|e|ə|o
-Open|a|a|o
+Open|a||
 
 Vowels|Front|Center|Back
 -----|------|------|-----
 Closed|i-|ï-|-u
 Middle|e-|ë-|-o
-Open|a-|a-|-o
+Open|a-||
 
 for vowels, the vowels to the right of the hyphen are rounded, and the vowels to the left are unrounded. for consonants, the consonants to the right of the hypen are voiced, and the consonants to the left are unvoiced.
 
