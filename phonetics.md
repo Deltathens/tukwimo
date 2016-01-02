@@ -24,7 +24,7 @@ Open|a|a|o
 
 Vowels|Front|Center|Back
 -----|------|------|-----
-Closed|i-|ü-|-u
+Closed|i-|ï-|-u
 High/Low|e-|ë-|-o
 Open|a-|a-|-o
 
