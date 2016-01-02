@@ -1,11 +1,12 @@
-Consonants IPA|Labial|Dental|Alveolar|Post Alveolar|Palatal|Velo-Uvular|Glottal
----------------|------|-------|---------|----------------|-------|------|-------
-Stops|p-b|t-d|t-d|t-d|k-g|k-g|ʔ-
-Nasal|-m|-n|-n|-n|-ŋ|-ŋ|
-Trill||-r|-r|-r||-R|
-Tap/Flap||-ɾ|-ɾ|-ɾ|||
-Fricative|ɸ-β|θ-ð|s-z|ʃ-ʒ|ʃ-ʒ|x-ɣ|h-ɦ
-Liquid|-w|-l|-l|-l|-j
+Consonants IPA| Labial | alveo-dental | post-alveolar / palatal | velar | glottal 
+------------------|----------|------------------|--------------------------------|--------|----------
+stops | p b | t d | | k g | ʔ
+nasals | m | n | | ŋ |
+trills | | r | | |
+taps | | ɾ | | |
+fricatives | ɸ β | θ ð | | x ɣ | h
+sibilants | | s z | ʃ-ʒ | |
+approximants | w | l | j | |
 
 Consonants|Labial|Dental|Alveolar|Post Alveolar|Palatal|Velo-Uvular|Glottal
 ---------------|------|-------|---------|----------------|-------|------|-------
