@@ -20,7 +20,7 @@ approximants | w | l | j | |
 
 Vowels IPA|Front|Center|Back
 -----|------|------|-----
-Closed|i|ɨ|ɯ
+Closed|i|ɨ|u
 Middle|e|ə|o
 Open|a||
 
