@@ -29,3 +29,6 @@ High/Low|e-|ë-|-o
 Open|a-|a-|-o
 
 for vowels, the vowels to the right of the hyphen are rounded, and the vowels to the left are unrounded. for consonants, the consonants to the right of the hypen are voiced, and the consonants to the left are unvoiced.
+
+Stress is lexical, where stress on the first syllable is a noun, and stress on the last syllable is a verb.
+Tone is pitch-accent and lexical. Tone is romanized as such: ò (high),v (middle), and ó (low), where o are/is the vowel/s in a syllable with that tone.
