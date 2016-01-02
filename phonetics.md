@@ -1,4 +1,4 @@
-Consonants IPA| Labial | alveo-dental | post-alveolar / palatal | velar | glottal 
+Consonants IPA| Labial | Alveolar / Dental | Post-alveolar / Palatal | Velar | Glottal 
 ------------------|----------|------------------|--------------------------------|--------|----------
 stops | p b | t d | | k g | ʔ
 nasals | m | n | | ŋ |
@@ -8,7 +8,7 @@ fricatives | ɸ β | θ ð | | x ɣ | h
 sibilants | | s z | ʃ ʒ | |
 approximants | w | l | j | |
 
-Consonants | Labial | alveo-dental | post-alveolar / palatal | velar | glottal 
+Consonants | Labial | Alveolar / Dental | Post-alveolar / Palatal | Velar | Glottal 
 ------------------|----------|------------------|--------------------------------|--------|----------
 stops | p b | t d | | k g | '
 nasals | m | n | | ng |
