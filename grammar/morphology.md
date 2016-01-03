@@ -2,7 +2,7 @@ Number is inflected on Nouns in the form of a suffix, and comes either Singular 
 
 Number|Singular|Plural
 ------|--------|------
-Suffix|i|o
+Suffix|(')i|(')o
 
 Verb conjugation involves two suffixes: Aspect and Tense, with Aspect being closest to the verb, and Tense being closest to the word end. Aspect is either Perfect or Imperfect, and Tense is Past, Present, and Future.
 
@@ -12,4 +12,6 @@ Suffix|n|m|ng
 
 Aspect|Perfect|Imperfect
 -----|-------|----------
-Suffix|e|u
+Suffix|(')e|(')u
+
+Glottal Stop(') is omitted when the root word ends in a consonant, and kept when it ends in a vowel.
