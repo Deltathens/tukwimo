@@ -30,6 +30,8 @@ Closed|i-|ï-|-u
 Middle|e-|ë-|-o
 Open|a-|ä-|-õ
 
+Glottal Stop is only used in between vowels to stop them from diphthongizing.
+
 for vowels, the vowels to the right of the hyphen are rounded, and the vowels to the left are unrounded. for consonants, the consonants to the right of the space are voiced, and the consonants to the left are unvoiced.
 
 Stress is lexical, where stress on the first syllable is a noun or another non-verb, and stress on the last syllable is a verb.
