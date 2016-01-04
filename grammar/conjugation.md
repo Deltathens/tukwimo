@@ -4,4 +4,8 @@ Meaning|Perfect|Imperfect|Past|Present|Future
 -------|-------|---------|----|-------|------
 Suffix|(')e|(')o|c|j|zh
 
+Gerunds are marked with a -(')ë at the end of the verb root.
+Infinitives are marked by not inflecting.
 The Glottal Stop(') is omitted when the verb ends in a consonant, and kept when it ends in a vowel.
+
+## Examples:
