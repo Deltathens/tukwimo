@@ -2,8 +2,8 @@ Numbers and Notes|pïk|pok|päk|pek|tïg|tog|täg|teg|kïb|kob|käb|keb
 ----------------|---|----|----|-------|-----|--------|---------|----|------|----|----|--------
 Number|0|1|2|3|4|5|6|7|8|9|10|11|12
 Note|C|C#|D|D#|E|F|F#|G|G#|A|A#|B
-Color|Red|Orange|Yellow|Lime|Green|Green-Cyan|Cyan|Cyan-Blue|Blue|Purple|Magenta
-Hexcode|FF0000|FF8800|FFFF00|88FF00|00FF00|00FF88|00FFFF|0088FF|0000FF|8800FF|FF00FF
+Color|Red|Orange|Yellow|Lime|Green|Green-Cyan|Cyan|Cyan-Blue|Blue|Purple|Magenta|Magenta-Red
+Hexcode|FF0000|FF8800|FFFF00|88FF00|00FF00|00FF88|00FFFF|0088FF|0000FF|8800FF|FF00FF|FF0088
 
 When used as numbers, they concatenate to form numbers where the rightmost number is the 1s place, the second rightmost is the 12s place, (they lose their final consonant, except the 1s digit) eg: pokeb is 13, kepok is 145.
 
