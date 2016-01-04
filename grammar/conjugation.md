@@ -13,15 +13,27 @@ The Glottal Stop(') is omitted when the verb ends in a consonant, and kept when 
 ### Examples:
 #### tuk - to communicate
 tuk - to communicate
+
 tukë - communicating
+
 tukec - communicated continuously
+
 tukej - communicating continuously
+
 tukezh - will communicate continuously
+
 tukoc - communicated incontinuously
+
 tukoj - communicating incontinuously
+
 tukozh - will communicate incontinuously
+
 tuke - communicate continuously
+
 tuko - communicate incontinuously
+
 tukc - communicated
+
 tukj - communicating
+
 tukzh - will communicate
