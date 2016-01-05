@@ -36,4 +36,4 @@ for vowels, the vowels to the right of the hyphen are rounded, and the vowels to
 
 Stress is lexical, where stress on the first syllable is a noun or another non-verb, and stress on the last syllable is a verb.
 
-When t, d, z, or g precede a h and mustn´t be interpreted as their digraph, place an apostrophe in between the characters. Follow the same rules for a n preceding a g.
+When n precedes a g and mustn´t be interpreted as <ng> digraph, place an apostrophe in between the characters.
