@@ -11,7 +11,7 @@ approximants | w | l | j | |
 Consonants | Labial | Alveolar / Dental | Post-alveolar / Palatal | Velar | Glottal 
 ------------------|----------|------------------|--------------------------------|--------|----------
 stops | p b | t d | | k g | '
-nasals | m | n | | ng |
+nasals | m | n | | ñ |
 trills | | rr | | |
 taps | | r | | |
 fricatives | f v | ť ď | | x ǧ | h
@@ -35,5 +35,3 @@ Glottal Stop is only used in between vowels to stop them from diphthongizing.
 for vowels, the vowels to the right of the hyphen are rounded, and the vowels to the left are unrounded. for consonants, the consonants to the right of the space are voiced, and the consonants to the left are unvoiced.
 
 Stress is lexical, where stress on the first syllable is a noun or another non-verb, and stress on the last syllable is a verb.
-
-When n precedes a g and mustn´t be interpreted as <ng> digraph, place an apostrophe in between the characters.
