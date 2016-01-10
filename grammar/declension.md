@@ -1,4 +1,4 @@
-There are 8 cases: Agent, Patient, Indirect Patient, Indirect Agent, Locative, Vocative, Benefactive, and Genitive. Case is marked with a suffix on the noun. See the syntax section for information on when and how to use these cases.
+There are 8 cases: Agent, Patient, Indirect Patient, Indirect Agent, Locative, Vocative, Benefactive, and Genitive. Case is marked with a suffix on the noun. See the [syntax section](https://github.com/Deltathens/tukwimo/blob/master/syntax/case.md) for information on when and how to use these cases.
 
 * Agent is marked by omitting any case suffix.
 * Patient is marked with 'ojs'.
