@@ -9,4 +9,4 @@ There are 8 cases: Agent, Patient, Indirect Patient, Indirect Agent, Locative, V
 * Benefactive is marked with 'ežs'.
 * Genitive is marked with 'ojl'.
 
-Count is either singular or plural, and marked with a 'a' at the beginning for plural, and omitted when singular.
+Count is either singular or plural, and marked with a 'a' at the beginning for plural, and omitted when singular. If noun-root ends in a vowel, add glottal stop before the suffix and after the prefix if it begins in a vowel.
