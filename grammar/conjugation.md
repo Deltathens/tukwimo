@@ -11,28 +11,16 @@ Infinitives are marked by not inflecting.
 
 ### Examples:
 #### tuk - to communicate
-tuk - to communicate
-
-tukë - communicating
-
-tukec - communicated (complete from point of reference)
-
-tukej - communicates (complete from point of reference)
-
-tukezh - will communicate (complete from point of reference)
-
-tukoc - communicated (incomplete from point of reference)
-
-tukoj - communicates (incomplete from point of reference)
-
-tukozh - will communicate (incomplete from point of reference)
-
-tuke - communicate (complete from point of reference)
-
-tuko - communicate (incomplete from point of reference)
-
-tukc - communicated
-
-tukj - communicates
-
-tukzh - will communicate
+* tuk - to communicate
+* tukë - communicating
+* tukec - communicated (complete from point of reference)
+* tukej - communicates (complete from point of reference)
+* tukezh - will communicate (complete from point of reference)
+* tukoc - communicated (incomplete from point of reference)
+* tukoj - communicates (incomplete from point of reference)
+* tukozh - will communicate (incomplete from point of reference)
+* tuke - communicate (complete from point of reference)
+* tuko - communicate (incomplete from point of reference)
+* tukc - communicated
+* tukj - communicates
+* tukzh - will communicate
