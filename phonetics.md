@@ -21,7 +21,7 @@ approximants | w | l | j | |
 Vowels IPA|Front|Center|Back
 -----|------|------|-----
 Closed|i|ɨ|u
-Middle|e|ə|o
+Middle|e|ə|ɔ
 Open|a|ɐ(lower)|ɒ
 
 Vowels|Front|Center|Back
