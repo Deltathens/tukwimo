@@ -4,11 +4,10 @@ Verbs are conjugated with two suffixes arranged as such Verb-Aspect-Tense. Aspec
 
 Meaning|Perfect|Imperfect|Past|Present|Future
 -------|-------|---------|----|-------|------
-Suffix|(')e|(')o|c|j|zh
+Suffix|e|o|c|j|zh
 
-Gerunds are marked with a -(')ë at the end of the verb root.
+Gerunds are marked with a -ë at the end of the verb root.
 Infinitives are marked by not inflecting.
-The Glottal Stop(') is omitted when the verb ends in a consonant, and kept when it ends in a vowel.
 
 ### Examples:
 #### tuk - to communicate
@@ -16,21 +15,21 @@ tuk - to communicate
 
 tukë - communicating
 
-tukec - communicated continuously
+tukec - communicated (complete from point of reference)
 
-tukej - communicating continuously
+tukej - communicating (complete from point of reference)
 
-tukezh - will communicate continuously
+tukezh - will communicate (complete from point of reference)
 
-tukoc - communicated incontinuously
+tukoc - communicated (incomplete from point of reference)
 
-tukoj - communicating incontinuously
+tukoj - communicating (incomplete from point of reference)
 
-tukozh - will communicate incontinuously
+tukozh - will communicate (incomplete from point of reference)
 
-tuke - communicate continuously
+tuke - communicate (complete from point of reference)
 
-tuko - communicate incontinuously
+tuko - communicate (incomplete from point of reference)
 
 tukc - communicated
 
