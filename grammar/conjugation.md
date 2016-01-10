@@ -17,13 +17,13 @@ tukë - communicating
 
 tukec - communicated (complete from point of reference)
 
-tukej - communicating (complete from point of reference)
+tukej - communicates (complete from point of reference)
 
 tukezh - will communicate (complete from point of reference)
 
 tukoc - communicated (incomplete from point of reference)
 
-tukoj - communicating (incomplete from point of reference)
+tukoj - communicates (incomplete from point of reference)
 
 tukozh - will communicate (incomplete from point of reference)
 
@@ -33,6 +33,6 @@ tuko - communicate (incomplete from point of reference)
 
 tukc - communicated
 
-tukj - communicating
+tukj - communicates
 
 tukzh - will communicate
