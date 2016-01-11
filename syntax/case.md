@@ -2,7 +2,7 @@ There are 8 cases:  Agent, Patient, Indirect Patient, Indirect Agent, Locative, 
 
 * Agent is used for the direct cause of the situation described. e.g. the 'I' in 'I did it'.
 * Patient is used for the direct object of the situation described. e.g. the 'him' in 'It loves him'.
-* Indirect Patient
+* Indirect Patient is used for the indirect object of the situation described. e.g. the 'The Italian' in 'I gave the udon to the Italian'.
 * Indirect Agent
 * Locative
 * Vocative
