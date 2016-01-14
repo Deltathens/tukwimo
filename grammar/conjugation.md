@@ -16,11 +16,6 @@ Infinitives are marked by not inflecting.
 * tukec - communicated (complete from point of reference)
 * tukej - communicates (complete from point of reference)
 * tukezh - will communicate (complete from point of reference)
-* tukoc - communicated (incomplete from point of reference)
-* tukoj - communicates (incomplete from point of reference)
-* tukozh - will communicate (incomplete from point of reference)
-* tuke - communicate (complete from point of reference)
-* tuko - communicate (incomplete from point of reference)
-* tukc - communicated
-* tukj - communicates
-* tukzh - will communicate
+* etc
+
+e.g. 'wio tukec wäi'ojs awuä'ejš' means 'I communicated (completed action from point of reference) you to them.'
